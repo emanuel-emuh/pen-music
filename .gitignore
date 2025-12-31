@@ -1,0 +1,16 @@
+# Ignorar pastas de compilação
+build/
+dist/
+*.spec
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar binários pesados (o usuário deve baixar separado)
+ffmpeg.exe
+ffprobe.exe
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
