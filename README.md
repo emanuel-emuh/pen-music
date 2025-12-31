@@ -97,4 +97,4 @@ Nota: É necessário ter o arquivo .ico na pasta.
 📝 Licença
 Este projeto é de uso livre para fins educacionais.
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por emanuel_emuh
